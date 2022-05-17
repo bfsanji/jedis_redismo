@@ -17,6 +17,7 @@ public class RedisTestController {
         System.out.println(name);
         System.out.println("hello");
         System.out.println("hello4");
+        System.out.println("hello2");
         return name;
     }
 }
